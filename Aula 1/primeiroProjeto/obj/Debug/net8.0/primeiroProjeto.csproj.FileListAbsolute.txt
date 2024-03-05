@@ -1,0 +1,14 @@
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/bin/Debug/net8.0/primeiroProjeto
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/bin/Debug/net8.0/primeiroProjeto.deps.json
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/bin/Debug/net8.0/primeiroProjeto.runtimeconfig.json
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/bin/Debug/net8.0/primeiroProjeto.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/bin/Debug/net8.0/primeiroProjeto.pdb
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.AssemblyInfoInputs.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.AssemblyInfo.cs
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.csproj.CoreCompileInputs.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/refint/primeiroProjeto.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.pdb
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/primeiroProjeto.genruntimeconfig.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 1/primeiroProjeto/obj/Debug/net8.0/ref/primeiroProjeto.dll
