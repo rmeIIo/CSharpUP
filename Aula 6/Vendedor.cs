@@ -1,0 +1,1 @@
+public record Vendedor(int Matricula, string Cpf, string Nome);

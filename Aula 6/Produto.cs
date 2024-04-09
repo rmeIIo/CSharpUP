@@ -1,0 +1,1 @@
+public record Produto(int Codigo, string Nome, decimal Preco);

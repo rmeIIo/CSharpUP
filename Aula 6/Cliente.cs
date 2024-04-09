@@ -1,0 +1,1 @@
+public record Cliente (string Cpf, string Nome);
