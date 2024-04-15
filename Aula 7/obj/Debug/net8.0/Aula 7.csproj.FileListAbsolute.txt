@@ -1,0 +1,15 @@
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/bin/Debug/net8.0/Aula 7
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/bin/Debug/net8.0/Aula 7.deps.json
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/bin/Debug/net8.0/Aula 7.runtimeconfig.json
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/bin/Debug/net8.0/Aula 7.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/bin/Debug/net8.0/Aula 7.pdb
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.GeneratedMSBuildEditorConfig.editorconfig
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.AssemblyInfoInputs.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.AssemblyInfo.cs
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.csproj.CoreCompileInputs.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.sourcelink.json
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/refint/Aula 7.dll
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.pdb
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/Aula 7.genruntimeconfig.cache
+/opt/lampp/htdocs/GitHub/CSharpUP/Aula 7/obj/Debug/net8.0/ref/Aula 7.dll
