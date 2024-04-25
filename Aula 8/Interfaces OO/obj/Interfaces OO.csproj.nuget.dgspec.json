@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/opt/lampp/htdocs/GitHub/CSharpUP/Aula 8/Interfaces OO/Interfaces OO.csproj": {}
+  },
+  "projects": {
+    "/opt/lampp/htdocs/GitHub/CSharpUP/Aula 8/Interfaces OO/Interfaces OO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/opt/lampp/htdocs/GitHub/CSharpUP/Aula 8/Interfaces OO/Interfaces OO.csproj",
+        "projectName": "Interfaces OO",
+        "projectPath": "/opt/lampp/htdocs/GitHub/CSharpUP/Aula 8/Interfaces OO/Interfaces OO.csproj",
+        "packagesPath": "/home/roger/.nuget/packages/",
+        "outputPath": "/opt/lampp/htdocs/GitHub/CSharpUP/Aula 8/Interfaces OO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/roger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
